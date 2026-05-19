@@ -32,35 +32,6 @@ I build labs, not just read books. I break things, fix them, and write down what
 
 ---
 
-### 🛠️ What I Build
-
-**Home SOC Lab**
-- Kali Linux on VirtualBox
-- Nmap for network scanning
-- Wireshark for packet analysis
-- Metasploit for attack simulation
-- Splunk for log analysis
-
-**AWS Lambda Projects**
-- Serverless sales analysis report function
-- VPC configuration for database access
-- SNS email notifications
-- CloudWatch logging and troubleshooting
-
----
-
-### 📂 What's in My GitHub
-
-| Repository | What You'll Find |
-|------------|------------------|
-| [SOC-Lab-Environment](https://github.com/owen23-ux/SOC-Lab-Environment) | Complete Kali Linux SOC lab setup with commands and detection rules |
-| [AWS-reStart-Portfolio](https://github.com/owen23-ux/AWS-reStart-Portfolio) | My AWS re/Start learning journey |
-| [AWS-Cloud-Quest](https://github.com/owen23-ux/AWS-Cloud-Quest) | Cloud Practitioner game-based learning completed |
-| [Servers-Containers](https://github.com/owen23-ux/Servers-Containers) | AWS Lambda labs and serverless projects |
-| [My-Cloud-Journey](https://github.com/owen23-ux/My-Cloud-Journey) | Tracking cloud learning, labs, and certifications |
-
----
-
 ### 👯 What I'm Looking For
 
 - Entry-level **SOC Analyst** role
