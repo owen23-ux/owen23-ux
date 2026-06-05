@@ -1,6 +1,4 @@
 ## 👋 Hi, I'm Owen Maake 
-📫 owenlethabo28@gmail.com | [LinkedIn](https://linkedin.com/in/owen-maake-0b715a3a3)
-
 **IT Graduate | SOC Analyst in Training | Cloud Enthusiast**
 
 I build labs, break things, fix them, and write down what I learned.
@@ -13,4 +11,4 @@ I build labs, break things, fix them, and write down what I learned.
 **Looking for:** Entry-level SOC Analyst or Cloud Support role
 
 > *"I built a home SOC lab before my first security job. Because I wanted to learn."*
-
+📫 owenlethabo28@gmail.com | [LinkedIn](https://linkedin.com/in/owen-maake-0b715a3a3)
