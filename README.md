@@ -1,14 +1,9 @@
 ## 👋 Hi, I'm Owen Maake 
 **IT Graduate | SOC Analyst in Training | Cloud Enthusiast**
+https://img.shields.io/badge/Microsoft_AZ--900-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white
+https://img.shields.io/badge/ISC2_CC-In_Progress-8A2BE2?style=for-the-badge&logo=isc2&logoColor=white
+https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
 
-I build labs, break things, fix them, and write down what I learned.
-- 🔧 **Home SOC Lab** – Kali Linux, Nmap, Wireshark, Splunk
-- ☁️ **AWS re/Start** – Compute, networking, databases, security
-- 📜 **Certs** – AWS AI, AZ-900, TryHackMe PreSec + Cyber 101 (Studying: ISC2 CC, Sec+, AWS CP)
+I build labs, break things, fix them, and write down what I learned.(stay with me i'll be updating my projects)
 
-**What I share:** SOC lab setups, AWS labs, case reports, scripts, cert notes
-
-**Looking for:** Entry-level SOC Analyst or Cloud Support role
-
-> *"I built a home SOC lab before my first security job. Because I wanted to learn."*
 📫 owenlethabo28@gmail.com | [LinkedIn](https://linkedin.com/in/owen-maake-0b715a3a3)
