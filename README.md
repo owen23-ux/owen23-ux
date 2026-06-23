@@ -1,4 +1,4 @@
-## Hi / Hola / Olá / Bonjour / Hallo / Ciao / 你好
+## Hi, Hola, Olá, Bonjour, Hallo, Ciao, 你好
 
 I'm Owen Maake
 
