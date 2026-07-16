@@ -29,11 +29,11 @@ My goal is to work as a security analyst who can protect and monitor systems acr
 
 | Certification | Status |
 |---------------|--------|
-| Microsoft Azure Fundamentals (AZ-900) | Completed |
+| Microsoft Azure Fundamentals AZ-900 | Completed |
 | AWS Cloud Practitioner | Studying (AWS re/Start) |
 | ISC2 Certified in Cybersecurity (CC) | Upcoming |
 | CompTIA Security+ | Upcoming |
-| Microsoft SC-200 (Security Operations Analyst) | Upcoming |
+| Microsoft SC-900 | Upcoming |
 
 ---
 
@@ -43,7 +43,7 @@ My goal is to work as a security analyst who can protect and monitor systems acr
 AWS · EC2 · VPC · IAM · S3 · Lambda · CloudWatch · CloudTrail · Azure Fundamentals
 
 **Security & SOC**
-Threat Detection · Log Analysis · Incident Response · SIEM Concepts · Nmap · Wireshark · Kali Linux · Splunk
+Threat Detection · Log Analysis · Alert Triage · Incident Response · SIEM Concepts · Nmap · Wireshark · Kali Linux · Splunk
 
 **Programming & Tooling**
 Python · Linux CLI · HTML5 · CSS3 · JavaScript · Git · GitHub
@@ -56,7 +56,7 @@ After AWS re/Start, I will focus on:
 
 - **ISC2 CC** — Foundational cybersecurity certification
 - **CompTIA Security+** — Industry-standard security certification
-- **SC-200** — Microsoft Security Operations Analyst (Sentinel, KQL, threat hunting)
+- **SC-900** — Microsoft Security Operations Analyst (Sentinel, KQL, threat hunting)
 
 ---
 
