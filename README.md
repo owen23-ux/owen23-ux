@@ -49,46 +49,16 @@ Having recently completed the AWS re/Start program, I am now focused on transiti
 
 ## Certifications
 
-<table align="right">
-  <tr>
-    <th>Certification</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>AWS re/Start Graduate</td>
-    <td>Completed</td>
-  </tr>
-  <tr>
-    <td>Microsoft Azure Fundamentals (AZ-900)</td>
-    <td>Completed</td>
-  </tr>
-  <tr>
-    <td>AWS AI Practitioner</td>
-    <td>Completed</td>
-  </tr>
-  <tr>
-    <td>Cisco Introduction to Cybersecurity</td>
-    <td>Completed</td>
-  </tr>
-  <tr>
-    <td>ISC2 Certified in Cybersecurity (CC)</td>
-    <td>Completed</td>
-  </tr>
-  <tr>
-    <td>AWS Cloud Practitioner</td>
-    <td>Studying</td>
-  </tr>
-  <tr>
-    <td>CompTIA Security+</td>
-    <td>Upcoming</td>
-  </tr>
-  <tr>
-    <td>Microsoft SC-200</td>
-    <td>Upcoming</td>
-  </tr>
-</table>
-
-<br clear="right"/>
+| Certification | Status |
+|---------------|--------|
+| AWS re/Start Graduate | Completed |
+| Microsoft Azure Fundamentals (AZ-900) | Completed |
+| AWS AI Practitioner | Completed |
+| Cisco Introduction to Cybersecurity | Completed |
+| ISC2 Certified in Cybersecurity (CC) | Completed |
+| AWS Cloud Practitioner | Studying |
+| CompTIA Security+ | Upcoming |
+| Microsoft SC-200 | Upcoming |
 
 ---
 
