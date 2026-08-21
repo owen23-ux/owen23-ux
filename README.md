@@ -68,7 +68,7 @@ Having recently completed the AWS re/Start program, I am now focused on transiti
   </tr>
   <tr>
     <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">ISC2 Certified in Cybersecurity (CC)</td>
-    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Studying</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Completed</td>
   </tr>
   <tr>
     <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">AWS Cloud Practitioner</td>
