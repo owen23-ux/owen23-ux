@@ -49,16 +49,44 @@ Having recently completed the AWS re/Start program, I am now focused on transiti
 
 ## Certifications
 
-| Certification | Status |
-|---------------|--------|
-| AWS re/Start Graduate | Completed |
-| Microsoft Azure Fundamentals (AZ-900) | Completed |
-| AWS AI Practitioner | Completed |
-| Cisco Introduction to Cybersecurity | Completed |
-| ISC2 Certified in Cybersecurity (CC) | Completed |
-| AWS Cloud Practitioner | Studying |
-| CompTIA Security+ | Upcoming |
-| Microsoft SC-200 | Upcoming |
+<table style="font-size: 12pt; width: 100%; border-collapse: collapse; text-align: left;">
+  <tr>
+    <th style="text-align: left; padding: 8px 12px; border-bottom: 1px solid #ddd;">Certification</th>
+    <th style="text-align: left; padding: 8px 12px; border-bottom: 1px solid #ddd;">Status</th>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">AWS re/Start Graduate</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Completed</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Microsoft Azure Fundamentals (AZ-900)</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Completed</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">AWS AI Practitioner</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Completed</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Cisco Introduction to Cybersecurity</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Completed</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">ISC2 Certified in Cybersecurity (CC)</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Completed</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">AWS Cloud Practitioner</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Studying</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">CompTIA Security+</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Upcoming</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Microsoft SC-200</td>
+    <td style="padding: 8px 12px; border-bottom: 1px solid #eee;">Upcoming</td>
+  </tr>
+</table>
 
 ---
 
