@@ -1,4 +1,3 @@
-```markdown
 # Hi, Hola, Olá, Bonjour, Hallo, Ciao, 你好
 
 <div align="center">
